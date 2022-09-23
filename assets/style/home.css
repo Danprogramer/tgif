@@ -1,0 +1,24 @@
+* {
+    font-family: Courier, monospace;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  body {
+    margin: 5%;
+  
+  }
+  
+  nav{
+    margin-top:10px;
+  }
+  .aboutusImg{
+    margin-top: -400px;
+    margin-left: 950px;
+  }
+
+  
+
+  
